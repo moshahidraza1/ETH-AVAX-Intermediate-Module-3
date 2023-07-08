@@ -46,3 +46,7 @@ Congratulations! You have successfully connected your local Hardhat network with
 Note: Make sure your local Hardhat network is running (`npx hardhat node`) and that you have the necessary dependencies installed (`npm install`).
 
 Please refer to the provided code and adjust it to meet your specific contract requirements. Add relevant information and code in a structured manner within the `Token` contract.
+
+## Video Walkthrough
+
+https://www.loom.com/share/56faefb9a47a4accae98ae6cc77b5385
